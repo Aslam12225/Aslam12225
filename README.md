@@ -26,7 +26,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Aslam-Khan" target="_blank">
+  <a href="https://github.com/Aslam12225" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
